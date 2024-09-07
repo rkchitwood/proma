@@ -19,5 +19,8 @@
     - Give PM's the information they need while hiding the unnecessary clutter from users who do not
     - Allow users to track their time spent on projects to allow visibility across organizations
 
+- **Usage:**
+    - This project can be viewed on the live site deployed through render here: [proma on render](https://proma.onrender.com)
+
 - **Contributors:**
     - This project was completed in its entirety by [Ryan Chitwood](https://github.com/rkchitwood)
