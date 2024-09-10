@@ -21,6 +21,17 @@
 
 - **Usage:**
     - This project can be viewed on the live site deployed through render here: [proma on render](https://proma.onrender.com)
+    - This project can be ran locally by the following commands
+    ```
+    $ git clone https://github.com/rkchitwood/proma.git
+    $ npm install
+    $ createdb proma
+    $ cd backend
+    $ npm start
+    #in a separate terminal window
+    $ cd frontend
+    $ npm run dev
+    ```
 
 - **Contributors:**
     - This project was completed in its entirety by [Ryan Chitwood](https://github.com/rkchitwood)
